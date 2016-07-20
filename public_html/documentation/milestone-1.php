@@ -14,7 +14,7 @@
 			</ol>
 		<h3>Persona</h3>
 			<p>
-				Name: Kiana Beckman
+				<strong>Name:</strong> Kiana Beckman
 				Age: 47
 				Occupation: Hiring manager at web development company
 				Technology: assigned work computer. Desktop or laptop with either WIndows or Mac OS. This device is used at work only.
