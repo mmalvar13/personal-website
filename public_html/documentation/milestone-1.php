@@ -22,6 +22,15 @@
 				<strong>Frustrations and Needs:</strong>Kiana needs to hire an entry level junior programmer to her company. She would like to hire someone who is a good fit with the company culture, has demonstrated talent and commitment to continual learning, and who is looking to grow within the company. She wants someone who has a basic set of skills, and in working with more seasoned web developers, can get up to pace within three months on the job.<br>
 				<strong>Goals:</strong> Kiana’s goal is to identify applicants that she would like to interview and potentially hire. She doesn’t like to invite just anyone to an interview, and wants to make sure the interview will be worth her time.
 			</p>
+		<h3>Use Case</h3>
+			<p>
+				<strong>Who:</strong> Kiana Beckman, hiring manager for web development company<br>
+				<strong>What:</strong> On her company desktop or laptop with either Windows or Mac OS. This device is used at work only.<br>
+				<strong>Where:</strong> At her work office in downtown Albuquerque, NM<br>
+				<strong>When:</strong> Kiana has blocked off two hours of her morning to look through the resumes and do online research on applicants that her assistant has already picked out of the initial pile.<br>
+				<strong>Why:</strong>Kiana is visiting this site to achieve her goal of finding strong applicants for a junior developer position that she intends to interview.
+			</p>
+
 	</body>
 
 </html>
