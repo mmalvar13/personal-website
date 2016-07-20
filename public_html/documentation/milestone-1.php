@@ -28,7 +28,7 @@
 				<strong>What:</strong> On her company desktop or laptop with either Windows or Mac OS. This device is used at work only.<br>
 				<strong>Where:</strong> At her work office in downtown Albuquerque, NM<br>
 				<strong>When:</strong> Kiana has blocked off two hours of her morning to look through the resumes and do online research on applicants that her assistant has already picked out of the initial pile.<br>
-				<strong>Why:</strong>Kiana is visiting this site to achieve her goal of finding strong applicants for a junior developer position that she intends to interview.
+				<strong>Why:</strong>Kiana is visiting this site to achieve her goal of finding strong applicants for a junior developer position that she intends to interview.<br>
 			</p>
 
 	</body>
