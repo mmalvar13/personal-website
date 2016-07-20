@@ -14,13 +14,13 @@
 			</ol>
 		<h3>Persona</h3>
 			<p>
-				<strong>Name:</strong> Kiana Beckman
-				Age: 47
-				Occupation: Hiring manager at web development company
-				Technology: assigned work computer. Desktop or laptop with either WIndows or Mac OS. This device is used at work only.
-				Behaviors and attitudes: Kiana is a very involved manager, and she takes the hiring process very seriously. She wants to make sure that anyone she hires is a good fit for the company, but also that the job is a good fit for the individual and what they are looking for. It takes her no more than 30 seconds to decide if she wants to thoroughly read an applicant's resume. She is looking to fill positions for web developers, so she expects any serious applicants to have a good web presence and website. When checking out a website, it takes her no more than 10 seconds to decide if she is impressed with the website design. She will spend about 3 minutes browsing through a website; more if she is finding what she is looking for.
-				Frustrations and Needs:Kiana needs to hire an entry level junior programmer to her company. She would like to hire someone who is a good fit with the company culture, has demonstrated talent and commitment to continual learning, and who is looking to grow within the company. She wants someone who has a basic set of skills, and in working with more seasoned web developers, can get up to pace within three months on the job.
-				Goals: Kiana’s goal is to identify applicants that she would like to interview and potentially hire. She doesn’t like to invite just anyone to an interview, and wants to make sure the interview will be worth her time.
+				<strong>Name:</strong> Kiana Beckman<br>
+				<strong>Age:</strong> 47<br>
+				<strong>Occupation:</strong> Hiring manager at web development company <br>
+				<strong>Technology:</strong> assigned work computer. Desktop or laptop with either WIndows or Mac OS. This device is used at work only.<br>
+				<strong>Behaviors and attitudes:</strong> Kiana is a very involved manager, and she takes the hiring process very seriously. She wants to make sure that anyone she hires is a good fit for the company, but also that the job is a good fit for the individual and what they are looking for. It takes her no more than 30 seconds to decide if she wants to thoroughly read an applicant's resume. She is looking to fill positions for web developers, so she expects any serious applicants to have a good web presence and website. When checking out a website, it takes her no more than 10 seconds to decide if she is impressed with the website design. She will spend about 3 minutes browsing through a website; more if she is finding what she is looking for.<br>
+				<strong>Frustrations and Needs:</strong>Kiana needs to hire an entry level junior programmer to her company. She would like to hire someone who is a good fit with the company culture, has demonstrated talent and commitment to continual learning, and who is looking to grow within the company. She wants someone who has a basic set of skills, and in working with more seasoned web developers, can get up to pace within three months on the job.<br>
+				<strong>Goals:</strong> Kiana’s goal is to identify applicants that she would like to interview and potentially hire. She doesn’t like to invite just anyone to an interview, and wants to make sure the interview will be worth her time.
 			</p>
 	</body>
 
