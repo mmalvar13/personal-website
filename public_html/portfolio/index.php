@@ -41,7 +41,7 @@
 		<div class="sfooter-content">
 			<header>
 				<!--				<div class="content-box" id="contact-header"></div>-->
-				<div class="jumbotron" id="portfolio-page-jumbotron">
+				<div class="jumbotron" id= "portfolio-page-jumbotron">
 					<div class="row">
 						<div class="container">
 							<h1>Portfolio</h1>

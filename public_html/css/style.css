@@ -72,9 +72,9 @@ body{
 }
 
 /*Portfolio Page*/
-#portfolio-page-jumbotron {
-	background:linear-gradient(rgba(100,40,0,0.4), rgba(0,0,0, 0.4)),url(../images/portfolio.png) no-repeat center center;
-	/*background-attachment: fixed;*/
+#portfolio-page-jumbotron{
+	background:linear-gradient(rgba(100,40,0,0.4), rgba(0,0,0, 0.4)),url(../images/portfolioPhoto.png) no-repeat center center;
+	background-attachment: fixed;
 	background-size: cover;
 	min-height: 300px;
 	color: ghostwhite;
