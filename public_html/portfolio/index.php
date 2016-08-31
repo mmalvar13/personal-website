@@ -31,6 +31,9 @@
 				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 				  crossorigin="anonymous"></script>
 
+		<!--------------------------Font Awesome Link------------------>
+		<script src="https://use.fontawesome.com/d0e15db066.js"></script>
+
 		<!--Add Your Custom JS FILES HERE -->
 		<script src="../js/custom.js" type="text/javascript"></script>
 		<title>Monica Alvarez</title>
@@ -136,5 +139,23 @@
 			</main>
 
 		</div>
+		<footer>
+			<div class="container" id="footy">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="pull-right">
+							<a href="https://github.com/mmalvar13" target="blank">
+								<i class="fa fa-github-square fa fa-camera-retro fa-3x" aria-hidden="true"></i>
+							</a>
+
+							<a href="https://www.linkedin.com/in/monica-alvarez-ba70a48b
+" target="blank">
+								<i class="fa fa-linkedin-square fa fa-camera-retro fa-3x" aria-hidden="true"></i>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
 
 	</body>

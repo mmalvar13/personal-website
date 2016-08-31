@@ -15,6 +15,7 @@
 
 body{
 	background:linear-gradient(rgba(77,77,77,1), rgba(7,13,1,1));
+
 }
 
 .img-thumbnail {
@@ -36,6 +37,7 @@ body{
 	border-radius:4px;
 	border:darkseagreen;
 	margin-bottom: 10rem;
+	margin-top:5rem;
 }
 
 /*Contact Page*/
