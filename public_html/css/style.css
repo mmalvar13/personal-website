@@ -1,13 +1,18 @@
 /*home page*/
 .jumbotron{
-	background:linear-gradient(rgba(100,40,0,0.4), rgba(0,0,0, 0.4)),url(../images/succulent.png) no-repeat center center;
+	background:linear-gradient(rgba(100,40,0,0), rgba(0,0,0, 0)),url(../images/succulent.png) no-repeat center center;
 	background-attachment: fixed;
 	background-size: cover;
 	min-height: 400px;
 	color: ghostwhite;
 	margin-bottom: 0;
-}
+	font-family:'Pacifico', cursive;
 
+}
+.about-page{
+	color: white;
+	font-family: 'Quicksand', sans-serif;
+}
 .content-box{
 	background-color:darkgray;
 	height:40rem;
@@ -15,7 +20,7 @@
 
 body{
 	background:linear-gradient(rgba(77,77,77,1), rgba(7,13,1,1));
-
+/*background: white;*/
 }
 
 .img-thumbnail {
@@ -33,21 +38,33 @@ body{
 }
 
 .well{
-	background-color: mediumaquamarine;
+	background: transparent;
+	/*background-color: mediumaquamarine;*/
 	border-radius:4px;
 	border:darkseagreen;
 	margin-bottom: 10rem;
 	margin-top:5rem;
+	color:white;
+	font-family: 'Quicksand', sans-serif;
 }
+
+#home-text{
+	margin-top:5rem;
+}
+
+/*.col-md-5{*/
+	/*color:white;*/
+/*}*/
 
 /*Contact Page*/
 #contact-page-jumbotron{
-	background:linear-gradient(rgba(100,40,0,0.4), rgba(0,0,0, 0.4)),url(../images/contactpage.png) no-repeat center center;
+	background:linear-gradient(rgba(100,40,0,0), rgba(0,0,0, 0)),url(../images/contactpage.png) no-repeat center center;
 	/*background-attachment: fixed;*/
 	background-size: cover;
 	min-height: 300px;
 	color: ghostwhite;
 	margin-bottom: 0;
+	font-family:'Pacifico', cursive;
 }
 
 #contact-header{
@@ -75,20 +92,181 @@ body{
 
 /*Portfolio Page*/
 #portfolio-page-jumbotron{
-	background:linear-gradient(rgba(100,40,0,0.4), rgba(0,0,0, 0.4)),url(../images/portfolioPhoto.png) no-repeat center center;
+	background:linear-gradient(rgba(100,40,0,0), rgba(0,0,0, 0)),url(../images/portfolioPhoto.png) no-repeat center center;
 	background-attachment: fixed;
 	background-size: cover;
 	min-height: 300px;
 	color: ghostwhite;
 	margin-bottom: 0;
+	font-family:'Pacifico', cursive;
+}
+
+.curlyfont{
+	font-family: 'Pacifico', cursive;
+	color:white;
 }
 
 /*portfolio carousel*/
 #carousel-example-generic{
 	margin-top: 10rem;
+	width: 100%;
+	height: 100%;
+}
+
+/*Technical Toolbox*/
+.table-responsive{
+	/*background:rgb(118,146,190); !*linear-gradient(rgba(255,243,119, 0.4), rgba(255,243,222, 0.4)) ;*!*/
+	border: 4px solid #B75252;
+	border-radius: 8px;
+	color: black;
+	background-color: white;
+	padding: 0;
+}
+
+/**/
+.container-fluid{
+	/*background-color:green;*/
+	padding:0;
+	padding-top: 10rem;
+}
+.container-fluid .row-bg-wrap{
+	background-color:white;
+	height: 70rem;
+	padding-right:0;
+	padding-left:0;
+}
+
+.active{
+	/*background-color:#dff0d8;*/
 }
 
 
+
+
+#resume-content{
+	color: black;
+	font-family: 'Quicksand', sans-serif;
+	text-align:center;
+
+}
+
+
+h1{
+	font-family:'Pacifico', 'cursive';
+	text-align: center;
+}
+
+.languages{
+	height:15rem;
+	width: 20rem;
+	/*background-color: #B8C29E;*/
+	border: 2px solid whitesmoke;
+
+}
+
+.languages1{
+	height: 15rem;
+	width:40rem;
+	border: 2px solid whitesmoke;
+	padding-left:10rem;
+}
+
+.languages1 img{
+	height: 15rem;
+	vertical-align:middle;
+}
+
+.languages img{
+	height: 15rem;
+	vertical-align: middle;
+}
+
+#php img{
+	margin-top: 4rem;
+	margin-left:3rem;
+	height:7rem;
+	vertical-align: middle;
+}
+ #php{
+	 background-color:#5bc0eb;
+ }
+#css{
+	background-color:#fde74c;
+}
+#html5{
+	background-color: #9bc53d;
+}
+ #bootstrap{
+	 background-color: #c3423f;
+ }
+
+#javascript{
+	background-color:#404e4d;
+}
+
+#angular{
+	background-color:#5bc0eb ;
+}
+
+ #mysql{
+	 background-color:#fde74c;
+ }
+#python{
+	background-color: #9bc53d;
+}
+ #jquery{
+	 background-color:#c3423f;
+ }
+#html5 img{
+	height:10rem;
+	margin-left: 3rem;
+	margin-top: 2rem;
+	vertical-align:middle;
+}
+
+
+#secondRow img{
+	margin-left:2rem;
+}
+
+#javascript img{
+	height:10rem;
+	margin-left:4rem;
+	margin-top:2rem;
+}
+
+
+
+#weirds img{
+	height: 12rem;
+	/*margin-left:1rem;*/
+	margin-top:2rem;
+}
+
+#jquery img{
+
+	padding-bottom: 4rem;
+	padding-left:4rem;
+	height:17rem;
+}
+
+#python img{
+	margin-left: -2rem;
+}
+
+
+
+/* Zoom In #1 */
+.hover01 figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover01 figure:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
 
 /*Sticky footer*/
 /***

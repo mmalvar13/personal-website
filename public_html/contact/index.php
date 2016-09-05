@@ -17,6 +17,9 @@
 		<!--Custom CSS Goes Here-->
 		<link rel="stylesheet" href="../css/style.css" type="text/css"/>
 
+		<!--Google Fonts-->
+		<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
 		<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>

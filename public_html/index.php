@@ -17,6 +17,12 @@
 		<!--Custom CSS Goes Here-->
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
 
+		<!--Google Fonts-->
+		<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+
+		<link href="https://fonts.googleapis.com/css?family=Pacifico|Quicksand" rel="stylesheet">
+
+
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
 		<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -90,50 +96,60 @@
 			</header>
 			<main>
 
-
-				<div class="container">
+				<div class="container about-page">
 					<div class="row">
-						<div class="col-md-1"></div>
-						<div class="col-md-10">
-							<div class="well">
-								<div class="row">
-									<div class="col-md-7">
-										<h1>Hi there!</h1>
-										<img src="images/computerHands.png" alt="computer hands"
-											  class="img-responsive img-thumbnail"/>
-									</div>
-									<div class="col-md-5">
-										<p>Hiss at vacuum cleaner. Howl uncontrollably for no reason shake treat bag, but meow for
-											food, then when human fills food dish, take a few bites of food and continue meowing
-											stares at human while pushing stuff off a table. Eat from dog's food. Kitty power! .
-											Human
-											give me attention meow. Meowwww hack up furballs for meowing non stop for food vommit
-											food
-											and eat it again. Sleep nap lies down . Nap all day stretch flop over, for scratch at
-											the
-											door then walk away Gate keepers of hell so claw drapes. Kick up litter swat at dog
-											spot
-											something, big eyes, big eyes, crouch, shake butt, prepare to pounce cats secretly make
-											all the worlds muffins</p>
-										<p>Hiss at vacuum cleaner. Howl uncontrollably for no reason shake treat bag, but meow for
-											food, then when human fills food dish, take a few bites of food and continue meowing
-											stares at human while pushing stuff off a table. Eat from dog's food. Kitty power! .
-											Human
-											give me attention meow. Meowwww hack up furballs for meowing non stop for food vommit
-											food
-											and eat it again. Sleep nap lies down . Nap all day stretch flop over, for scratch at
-											the
-											door then walk away Gate keepers of hell so claw drapes. Kick up litter swat at dog
-											spot
-											something, big eyes, big eyes, crouch, shake butt, prepare to pounce cats secretly make
-											all the worlds muffins</p>
-									</div>
-								</div>
-							</div>
+						<div class="col-md-6 col-md-offset-3">
+							<h1>Hi there! I'm Monica.</h1>
 						</div>
-						<div class="col-md-1"></div>
+					</div>
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3">
+							<img src="images/computerHands.png" alt="computer hands" class="img-responsive img-thumbnail"/>
+						</div>
+					</div>
+					<div class="row">
+						<p>pursuing a new career trajectory in computer programming after two years in a director position at
+							a non-profit organization. I loved my role as a community organizer, but decided that I wanted to
+							become a maker, and be able to have the skills to build new things. I discovered my enthusiasm for
+							computer programming through online self-study courses, and I am currently becoming a full stack
+							developer at Deep Dive Coding Bootcamp. I love that programming allows me to be both creative and
+							logical on projects where I can come up with ideas and build them into realities. I am motivated to
+							continue growing and learning in this field. Ultimately, I hope that thro</p>
 					</div>
 				</div>
+
+				<!--				<div class="container">-->
+				<!--					<div class="row">-->
+				<!--<!--						<div class="col-md-1"></div>-->-->
+				<!--						<div class="col-md-12">-->
+				<!--							<div class="well">-->
+				<!--								<div class="row">-->
+				<!--									<div class="col-md-8 col-offset-2">-->
+				<!--										<h1>Hi there! I'm Monica.</h1>-->
+				<!--										<img src="images/monica.png" alt="welcome!"-->
+				<!--											  class="img-responsive img-thumbnail"/>-->
+				<!--									</div>-->
+				<!--									<div class="col-md-5" id="home-text">-->
+				<!--										<p>I am pursuing a new career trajectory in computer programming after two years in a director position at a non-profit organization. I loved my role as a community organizer, but decided that I wanted to become a maker, and be able to have the skills to build new things. I discovered my enthusiasm for computer programming through online self-study courses, and I am currently becoming a full stack developer at Deep Dive Coding Bootcamp. I love that programming allows me to be both creative and logical on projects where I can come up with ideas and build them into realities. I am motivated to continue growing and learning in this field. Ultimately, I hope that through my career in STEM I can teach other women and girls how to code, and encourage them to pursue careers in tech so we can close the technology gender gap and share more talent with the STEM community.</p>-->
+				<!--										<p>Hiss at vacuum cleaner. Howl uncontrollably for no reason shake treat bag, but meow for-->
+				<!--											food, then when human fills food dish, take a few bites of food and continue meowing-->
+				<!--											stares at human while pushing stuff off a table. Eat from dog's food. Kitty power! .-->
+				<!--											Human-->
+				<!--											give me attention meow. Meowwww hack up furballs for meowing non stop for food vommit-->
+				<!--											food-->
+				<!--											and eat it again. Sleep nap lies down . Nap all day stretch flop over, for scratch at-->
+				<!--											the-->
+				<!--											door then walk away Gate keepers of hell so claw drapes. Kick up litter swat at dog-->
+				<!--											spot-->
+				<!--											something, big eyes, big eyes, crouch, shake butt, prepare to pounce cats secretly make-->
+				<!--											all the worlds muffins</p>-->
+				<!--									</div>-->
+				<!--								</div>-->
+				<!--							</div>-->
+				<!--						</div>-->
+				<!--<!--						<div class="col-md-1"></div>-->-->
+				<!--					</div>-->
+				<!--				</div>-->
 			</main>
 		</div>
 
