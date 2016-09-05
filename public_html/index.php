@@ -108,13 +108,20 @@
 						</div>
 					</div>
 					<div class="row">
-						<p>pursuing a new career trajectory in computer programming after two years in a director position at
-							a non-profit organization. I loved my role as a community organizer, but decided that I wanted to
-							become a maker, and be able to have the skills to build new things. I discovered my enthusiasm for
-							computer programming through online self-study courses, and I am currently becoming a full stack
-							developer at Deep Dive Coding Bootcamp. I love that programming allows me to be both creative and
-							logical on projects where I can come up with ideas and build them into realities. I am motivated to
-							continue growing and learning in this field. Ultimately, I hope that thro</p>
+						<div class="col-md-8 col-md-offset-2">
+							<p>pursuing a new career trajectory in computer programming after two years in a director position
+								at
+								a non-profit organization. I loved my role as a community organizer, but decided that I wanted
+								to
+								become a maker, and be able to have the skills to build new things. I discovered my enthusiasm
+								for
+								computer programming through online self-study courses, and I am currently becoming a full stack
+								developer at Deep Dive Coding Bootcamp. I love that programming allows me to be both creative
+								and
+								logical on projects where I can come up with ideas and build them into realities. I am motivated
+								to
+								continue growing and learning in this field. Ultimately, I hope that thro</p>
+						</div>
 					</div>
 				</div>
 

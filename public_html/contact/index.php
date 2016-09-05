@@ -95,9 +95,9 @@
 
 
 			<main>
-				<div class="container">
-					<div class="row">
-						<div class="col-md-3">
+				<div class="container make-it-work">
+					<div class="row row-flex content-wrap">
+						<div class="col-md-3 col-md-push-9">
 							<div class="well" id="lets-talk">
 								<h1>Let's Talk</h1>
 								<div class="content-box">
@@ -112,16 +112,73 @@
 							</div>
 
 						</div>
-						<div class="col-md-1"></div>
-						<div class="col-md-8">
-							<div class="well" id="contact-form-area">
-								<h1>Contact Form here</h1>
+
+						<div class="col-md-9 col-sm-pull-3 content-panel">
+							<div>
+								<!----Begin Contact Form---->
+								<form id="contact-form" action="../php/mailer.php" method="post" novalidate="novalidate">
+									<div class="form-group">
+										<label for="name">
+											Name
+										<span class="text-danger">*</span>
+										</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<i class="fa fa-user" aria-hidden="true"></i>
+											</div>
+											<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+										</div>
+									</div>
+
+									<div class="form-group">
+										<label for="email">
+											Email
+											<span class="text-danger">*</span>
+										</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<i class="fa fa-envelope" aria-hidden="true"></i>
+											</div>
+											<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+										</div>
+									</div>
+									<div class="form-group">
+										<label for="name">
+											Subject
+											<span class="text-danger">*</span>
+										</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<i class="fa fa-pencil" aria-hidden="true"></i>
+											</div>
+											<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+										</div>
+									</div>
+									<div class="form-group">
+										<label for="message">
+											Message
+											<span class="text-danger">*</span>
+										</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<i class="fa fa-comment" aria-hidden="true"></i>
+											</div>
+											<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message (2000 characters max)"></textarea>
+										</div>
+									</div>
+
+
+
+
+
+								</form>
 							</div>
-						</div>
+
 
 					</div>
-				</div>
-				<!--				<div class="container">-->
+
+					</div>
+								<div class="container">
 				<!--					<div class="well" id="contact-form-area">-->
 				<!--						<h1>contact form here</h1>-->
 				<!--					</div>-->
