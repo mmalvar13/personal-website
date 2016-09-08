@@ -132,7 +132,7 @@
 						<div class="col-md-8 col-sm-pull-4 content-panel">
 							<div>
 								<!----Begin Contact Form---->
-								<form id="contact-form" action="../php/mailer.php" method="POST" novalidate="novalidate">
+								<form id="contact-form" action="../php/mailer.php" method="POST" novalidate>
 									<div class="form-group">
 										<label for="name">
 											Name
