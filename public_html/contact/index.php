@@ -37,6 +37,14 @@
 		<!-- Your JavaScript Form Validator -->
 		<script src="js/form-validate.js"></script>
 
+		<!--Google Recaptcha bootcamp coders-->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<!---->
+<!--		<script src='https://www.google.com/recaptcha/api.js'></script>-->
+		<!--Google Recaptcha malvardev-->
+
+
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
 				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
@@ -105,7 +113,7 @@
 			<main>
 				<div class="container make-it-work">
 					<div class="row row-flex content-wrap">
-						<div class="col-md-4 col-md-push-8">
+						<div class=" col-xs-12 col-sm-12 col-md-4 col-md-push-8">
 							<div class="well" id="lets-talk">
 								<h1>Let's Talk</h1>
 								<div class="content-box">
@@ -129,7 +137,7 @@
 
 						</div>
 
-						<div class="col-md-8 col-sm-pull-4 content-panel">
+						<div class="col-xs-12 col-md-8 col-sm-pull-4 content-panel">
 							<div>
 								<!----Begin Contact Form---->
 								<form id="contact-form" action="../php/mailer.php" method="POST" novalidate>
@@ -185,8 +193,11 @@
 										</div>
 									</div>
 
-									<!--Google Recaptcha-->
-									<div class="g-recaptcha" data-sitekey="6LetrykTAAAAAG-aEjK4X0nJlZy3YyyF-asmW14P"></div>
+									<!--Google Recaptcha bootcamp coders-->
+									<div class="g-recaptcha" data-sitekey="6Lc5rykTAAAAAM40hFWgxhull2Wqn1YT7N-Zf9T4"></div>
+
+									<!--Google Recaptcha MalvarDev-->
+<!--									<div class="g-recaptcha" data-sitekey="6LetrykTAAAAAG-aEjK4X0nJlZy3YyyF-asmW14P"></div>-->
 
 									<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i>Send</button>
 									<button class="btn btn-warning" type="reset"><i class="fa fa-paper-ban"></i>Reset</button>
@@ -195,7 +206,7 @@
 
 								<!--empty area for form error/success output-->
 								<div class="row">
-									<div class="col-xs-12">
+									<div class="col-xs-12 col-md-5">
 										<div id="output-area"></div>
 									</div>
 								</div>
