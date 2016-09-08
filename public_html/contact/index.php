@@ -18,7 +18,7 @@
 		<link rel="stylesheet" href="../css/style.css" type="text/css"/>
 
 		<!--Google Fonts-->
-		<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Pacifico|Quicksand" rel="stylesheet">
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
@@ -28,6 +28,14 @@
 
 		<!--jquery-->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
@@ -97,30 +105,38 @@
 			<main>
 				<div class="container make-it-work">
 					<div class="row row-flex content-wrap">
-						<div class="col-md-3 col-md-push-9">
+						<div class="col-md-4 col-md-push-8">
 							<div class="well" id="lets-talk">
 								<h1>Let's Talk</h1>
 								<div class="content-box">
-									<p>oard box and thinking longingly about tuna brine rub face on owner. Scamper white cat
-										sleeps on a black shirt cats secretly make all the worlds muffins leave hair everywhere,
-										for sleep nap. Chase mice climb leg stretch attack dog, run away and pretend to be victim.
-										Scratch the furniture climb a tree, wait for a fireman jump to fireman then scratch his
-										face brown cats with pink ears or hiss at vacuum cleaner refuse to leave cardboard box but
-										behind the couch leave dead animals as gifts. Sun bathe sleep on dog bed, force dog to
-										sleep on floor but make meme, make cute face attack feet, so hide when</p>
+									<p>If you have a website or project that you've been thinking about, I'd love to help you
+										create it! Leave me a message through this form and we can talk ideas, design, and pricing.</p>
+									<p>To learn more about my work and background, feel free to check out my GitHub and my
+										LinkedIn profiles.</p>
+									<div align="center">
+										<a href="https://github.com/mmalvar13" target="blank">
+											<i class="fa fa-github-square fa fa-camera-retro fa-4x icons" aria-hidden="true"></i>
+										</a>
+
+										<a href="https://www.linkedin.com/in/monica-alvarez-ba70a48b
+" target="blank">
+											<i class="fa fa-linkedin-square fa fa-camera-retro fa-4x icons" aria-hidden="true"></i>
+										</a>
+									</div>
+									<h3>I look forward to working with you!</h3>
 								</div>
 							</div>
 
 						</div>
 
-						<div class="col-md-9 col-sm-pull-3 content-panel">
+						<div class="col-md-8 col-sm-pull-4 content-panel">
 							<div>
 								<!----Begin Contact Form---->
 								<form id="contact-form" action="../php/mailer.php" method="post" novalidate="novalidate">
 									<div class="form-group">
 										<label for="name">
 											Name
-										<span class="text-danger">*</span>
+											<span class="text-danger">*</span>
 										</label>
 										<div class="input-group">
 											<div class="input-group-addon">
@@ -151,7 +167,8 @@
 											<div class="input-group-addon">
 												<i class="fa fa-pencil" aria-hidden="true"></i>
 											</div>
-											<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+											<input type="text" class="form-control" id="subject" name="subject"
+													 placeholder="Subject">
 										</div>
 									</div>
 									<div class="form-group">
@@ -163,26 +180,30 @@
 											<div class="input-group-addon">
 												<i class="fa fa-comment" aria-hidden="true"></i>
 											</div>
-											<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message (2000 characters max)"></textarea>
+											<textarea class="form-control" rows="5" id="message" name="message"
+														 placeholder="Message (2000 characters max)"></textarea>
 										</div>
 									</div>
 
+									<!--Google Recaptcha-->
+									<div class="g-recaptcha" data-sitekey="6LetrykTAAAAAG-aEjK4X0nJlZy3YyyF-asmW14P"></div>
 
-
-
+									<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i>Send</button>
+									<button class="btn btn-warning" type="reset"><i class="fa fa-paper-ban"></i>Reset</button>
 
 								</form>
 							</div>
 
 
-					</div>
+						</div>
 
 					</div>
-								<div class="container">
-				<!--					<div class="well" id="contact-form-area">-->
-				<!--						<h1>contact form here</h1>-->
-				<!--					</div>-->
-				<!--				</div>-->
+					</div>
+					<div class="container">
+						<!--					<div class="well" id="contact-form-area">-->
+						<!--						<h1>contact form here</h1>-->
+						<!--					</div>-->
+						<!--				</div>-->
 
 
 			</main>

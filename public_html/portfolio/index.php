@@ -93,161 +93,316 @@
 
 			</header>
 			<main>
+				<div class="container make-it-work">
+					<div class="row row-flex content-wrap">
+						<div class="col-md-4 col-md-push-8">
+							<div class="well" id="lets-talk">
+								<h1>Let's Talk</h1>
+								<div class="content-box">
+									<p>If you have a website or project that you've been thinking about, I'd love to help you
+										create it! Leave me a message through this form and we can talk ideas, design, and
+										pricing.</p>
+									<p>To learn more about my work and background, feel free to check out my GitHub and my
+										LinkedIn profiles.</p>
+									<div align="center">
+										<a href="https://github.com/mmalvar13" target="blank">
+											<i class="fa fa-github-square fa fa-camera-retro fa-4x icons" aria-hidden="true"></i>
+										</a>
 
-				<div class="container">
-					<div class="row">
-						<div class="curlyfont">
-							<h1>Technical Toolbox</h1>
+										<a href="https://www.linkedin.com/in/monica-alvarez-ba70a48b
+" target="blank">
+											<i class="fa fa-linkedin-square fa fa-camera-retro fa-4x icons" aria-hidden="true"></i>
+										</a>
+									</div>
+									<h3>I look forward to working with you!</h3>
+								</div>
+							</div>
+
 						</div>
+
+						<div class="col-md-8 col-sm-pull-4">
+							<div class="curlyfont">
+								<h1>Projects</h1>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="project-one projects">
+										<h4>CrumbTrail-Coming Soon</h4>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-12">
+									<div class="project-two projects">
+										<h4>Life Changing App-Coming Soon</h4>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-12">
+									<div class="project-three projects">
+										<h4>Website Layout-Coming Soon</h4>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
 					</div>
 				</div>
+<!-------------------------Making this today 9/5----------------------------------->
+<!--				<div class="container">-->
+<!--					<div class="row">-->
+<!--						<div class="curlyfont">-->
+<!--							<h1>Technical Toolbox</h1>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
+<!---->
+<!--				<div class="container">-->
+<!--					<div class="row">-->
+<!--						<div class="col-md-3 new" id="php">-->
+<!--							<div class="knowledge" >-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/phpLogo.png" alt="PHP7" class="img-responsive"/></figure>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!---->
+<!--						<div class="col-md-3 new" id="css">-->
+<!--							<div class="knowledge" >-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/css3.png" alt="CSS3" class="img-responsive"/></figure>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!---->
+<!--						<div class="col-md-3 new" id="html5">-->
+<!--							<div class="knowledge"  >-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/html5logo.png" alt="HTML5" class="img-responsive"/></figure>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!---->
+<!--						<div class="col-md-3 new" id="bootstrap">-->
+<!--							<div class="knowledge" >-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/bootstrap.png" alt="bootstrap" class="img-responsive"/></figure>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!---->
+<!--					<div class="row">-->
+<!--						<div class="col-md-3 new" id="javascript">-->
+<!--							<div class="knowledge" >-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/javascript.png" alt="Javascript" class="img-responsive"/></figure>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!---->
+<!--						<div class="col-md-3 new" id="angular">-->
+<!--							<div class="knowledge" >-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/angularjs.png" alt="angular" class="img-responsive"/></figure>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!---->
+<!--						<div class="col-md-3 new" id="mysql">-->
+<!--							<div class="knowledge"  >-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/mysql-logo.png" alt="mySQL" class="img-responsive"/></figure>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!---->
+<!--						<div class="col-md-3 new" id="python">-->
+<!--							<div class="knowledge" >-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/pythonLogo.png" alt="python" class="img-responsive"/></figure>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
 
-				<div class="container">
-					<div class="row">
-						<div class="col-md-4">
-							<div class="languages1" id="php">
-								<div class="hover01 column">
-									<div>
-										<figure><img src="../images/phpLogo.png" alt="PHP7" class="img-responsive"/></figure>
-										<!--										<span>Hover</span>-->
-									</div>
-								</div>
+				<!-------------------------------This is where it ends--------------->
 
-							</div>
-						</div>
-						<div class="col-md-4">
-							<div class="languages1" id="css">
-								<div class="hover01 column">
-									<div>
-										<figure><img src="../images/css3.png" alt="CSS3"/></figure>
-										<!--										<span>Hover</span>-->
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-md-4">
-							<div class="languages1" id="html5">
-								<div class="hover01 column">
-									<div>
-										<figure><img src="../images/html5logo.png" alt="HTML5"/></figure>
-										<!--										<span>Hover</span>-->
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-
-					<div class="row" id="secondRow">
-						<div class="col-md-2">
-							<div class="languages" id="bootstrap">
-								<div class="hover01 column">
-									<div>
-										<figure><img src="../images/bootstrap.png" alt="Bootstrap3"/></figure>
-										<!--										<span>Hover</span>-->
-									</div>
-								</div>
-
-							</div>
-						</div>
-						<div class="col-md-2">
-							<div class="languages" id="javascript">
-								<div class="hover01 column">
-									<div>
-										<figure><img src="../images/javascript.png" alt="JavaScript"/></figure>
-										<!--										<span>Hover</span>-->
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-md-2">
-							<div class="languages" id="angular">
-								<div class="hover01 column">
-									<div>
-										<figure><img src="../images/angularjs.png" alt="AngularJS"/></figure>
-										<!--										<span>Hover</span>-->
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-2" id="weirds">
-							<div class="languages" id="mysql">
-								<div class="hover01 column">
-									<div>
-										<figure><img src="../images/mysql-logo.png" alt="mySQL"/></figure>
-										<!--										<span>Hover</span>-->
-									</div>
-								</div>
-
-							</div>
-						</div>
-						<div class="col-md-2" id="weirds">
-							<div class="languages" id="python">
-								<div class="hover01 column">
-									<div>
-										<figure><img src="../images/pythonLogo.png" alt="Python"/></figure>
-										<!--										<span>Hover</span>-->
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-md-2" id="weirds">
-							<div class="languages" id="jquery">
-								<div class="hover01 column">
-									<div>
-										<figure><img src="../images/jQueryLogo.png" alt="jQuery"/></figure>
-										<!--										<span>Hover</span>-->
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
+<!-----------commented out 9/7----------technical toolbox----------------------------->
+<!--				<div class="container">-->
+<!--					<div class="row">-->
+<!--						<div class="curlyfont">-->
+<!--							<h1>Technical Toolbox</h1>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
+<!---->
+<!--				<div class="container">-->
+<!--					<div class="row">-->
+<!--						<div class="col-md-4">-->
+<!--							<div class="languages1" id="php">-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/phpLogo.png" alt="PHP7" class="img-responsive"/></figure>-->
+<!--										<!--										<span>Hover</span>-->-->
+<!--									</div>-->
+<!--								</div>-->
+<!---->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="col-md-4">-->
+<!--							<div class="languages1" id="css">-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/css3.png" alt="CSS3"/></figure>-->
+<!--										<!--										<span>Hover</span>-->-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!---->
+<!--						<div class="col-md-4">-->
+<!--							<div class="languages1" id="html5">-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/html5logo.png" alt="HTML5"/></figure>-->
+<!--										<!--										<span>Hover</span>-->-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!---->
+<!---->
+<!--					<div class="row" id="secondRow">-->
+<!--						<div class="col-md-2">-->
+<!--							<div class="languages" id="bootstrap">-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/bootstrap.png" alt="Bootstrap3"/></figure>-->
+<!--										<!--										<span>Hover</span>-->-->
+<!--									</div>-->
+<!--								</div>-->
+<!---->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="col-md-2">-->
+<!--							<div class="languages" id="javascript">-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/javascript.png" alt="JavaScript"/></figure>-->
+<!--										<!--										<span>Hover</span>-->-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!---->
+<!--						<div class="col-md-2">-->
+<!--							<div class="languages" id="angular">-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/angularjs.png" alt="AngularJS"/></figure>-->
+<!--										<!--										<span>Hover</span>-->-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="col-md-2" id="weirds">-->
+<!--							<div class="languages" id="mysql">-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/mysql-logo.png" alt="mySQL"/></figure>-->
+<!--										<!--										<span>Hover</span>-->-->
+<!--									</div>-->
+<!--								</div>-->
+<!---->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="col-md-2" id="weirds">-->
+<!--							<div class="languages" id="python">-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/pythonLogo.png" alt="Python"/></figure>-->
+<!--										<!--										<span>Hover</span>-->-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!---->
+<!--						<div class="col-md-2" id="weirds">-->
+<!--							<div class="languages" id="jquery">-->
+<!--								<div class="hover01 column">-->
+<!--									<div>-->
+<!--										<figure><img src="../images/jQueryLogo.png" alt="jQuery"/></figure>-->
+<!--										<!--										<span>Hover</span>-->-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!---------------------------------------end  of comment 9/7------------------>
 
 					<!--					<div class="row" id="thirdRow">-->
 
 					<!--					</div>-->
 				</div>
 
+
+
+
+
 				<div class="container-fluid">
 					<div class="row-bg-wrap">
-						<div class="col-md-12" id="resume-content">
-							<h1>Education</h1>
-							<h4><strong>Deep Dive Coding Bootcamp - STEMulus Center</strong></h4>
-							<h4>Web Development - Certificate of Completion</h4>
-							<h4>Central New Mexico Community College</h4>
-							<p>• 10-week, 600 hour, mobile-first Full Stack Web Development program focused on the LAMP
-								stack.
-								Developed personal webpage, and worked with a development team to create a food truck
-								tracking
-								web application using object oriented PHP and the Google Maps API.</p>
-							<br>
-							<br>
-							<h4><strong>Bachelor of Arts in International Studies</strong></h4>
-							<h4>Concentration: Conflict, Peace, and Diplomacy</h4>
-							<h4>Minor: Political Science</h4>
-							<h4>The University of New Mexico</h4>
-							<br>
-							<br>
-							<h2>Experience</h2>
-							<h4><strong>Capstone Project: Crumbtrail</strong></h4>
-							<h4>Web Developer</h4>
-							<ul>
-								<li>• A food truck tracking app that allows food truck owners to share their location while
-									they are open for business, and allows them to have a profile where they can share their
-									projected serving dates and locations. CrumbTrail allows hungry users to see what food
-									trucks are currently available in their area using geolocation, and to keep up with their
-									favorite food trucks within an intuitive user experience.
-								</li>
-								<li>• CrumbTrail’s database was developed with MySQL, the front end UX and UI were created
-									using a combination of HTML5, CSS3, Bootstrap, JavaScript, and jQuery. The backend was
-									built using PHP7. Added functionality to the project with AngularJS framework. Geolocation
-									capabilities were integrated using the Google Maps API.
-								</li>
-							</ul>
+						<div class="col-md-12 curlyfont" id="resume-content">
+							<h1>Technical Toolbox</h1>
+							<div class="grid">
+								<figure class="effect-hera">
+									<img src="../images/blackDots.png" alt="img25">
+									<figcaption>
+										<h2>Front <span>End</span></h2>
+										<p>
+
+											<a href="#"><i class="fa fa-html5" aria-hidden="true"></i></a>
+											<a href="#"><i class="fa fa-css3" aria-hidden="true"></i></a>
+											<a href="#"><i class="fa fa-css3" aria-hidden="true"></i></a>
+											<a href="#"><i class="fa fa-fw fa-file-code-o"></i></a>
+										</p>
+									</figcaption>
+								</figure>
+								<figure class="effect-hera">
+									<img src="../images/blackDots.png" alt="img25">
+									<figcaption>
+										<h2>Back <span>End</span></h2>
+										<p>
+											<a href="#"><i class="fa fa-fw fa-file-pdf-o"></i></a>
+											<a href="#"><i class="fa fa-fw fa-file-image-o"></i></a>
+											<a href="#"><i class="fa fa-fw fa-file-archive-o"></i></a>
+											<a href="#"><i class="fa fa-fw fa-file-code-o"></i></a>
+										</p>
+									</figcaption>
+								</figure>
+							</div>
 						</div>
 						<!--						<div class="col-md-5 table-responsive">-->
 						<!--							<table class=" table table-hover">-->
@@ -287,52 +442,52 @@
 			</main>
 
 
-			<div class="container">
-				<div class="row">
-					<div class="col-md-10 col-md-offset-1">
-
-						<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-							<!-- Indicators -->
-							<ol class="carousel-indicators">
-								<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-								<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-								<li data-target="#carousel-example-generic" data-slide-to="2"></li>
-							</ol>
-
-							<!-- Wrapper for slides -->
-							<div class="carousel-inner" role="listbox">
-								<div class="item active">
-									<img src="../images/slideshow1.png" alt="slideshow example">
-									<div class="carousel-caption">
-										<p>This is an example of a description of my project</p>
-										<a href="https://www.facebook.com">Facebook Link to Practice</a>
-									</div>
-								</div>
-								<div class="item">
-									<img src="../images/slideshow2.png" alt="slideshow example">
-									<div class="carousel-caption">
-										<p>This project was made for reasons, check it out at the link below</p>
-										<a href="https://www.github.com">I'm the Link Below</a>
-									</div>
-								</div>
-								...
-							</div>
-
-							<!-- Controls -->
-							<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-								<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-								<span class="sr-only">Previous</span>
-							</a>
-							<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-								<span class="sr-only">Next</span>
-							</a>
-						</div>
-
-
-					</div>
-				</div>
-			</div>
+<!--			<div class="container">-->
+<!--				<div class="row">-->
+<!--					<div class="col-md-10 col-md-offset-1">-->
+<!---->
+<!--						<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">-->
+<!--							<!-- Indicators -->-->
+<!--							<ol class="carousel-indicators">-->
+<!--								<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>-->
+<!--								<li data-target="#carousel-example-generic" data-slide-to="1"></li>-->
+<!--								<li data-target="#carousel-example-generic" data-slide-to="2"></li>-->
+<!--							</ol>-->
+<!---->
+<!--							<!-- Wrapper for slides -->-->
+<!--							<div class="carousel-inner" role="listbox">-->
+<!--								<div class="item active">-->
+<!--									<img src="../images/slideshow1.png" alt="slideshow example">-->
+<!--									<div class="carousel-caption">-->
+<!--										<p>This is an example of a description of my project</p>-->
+<!--										<a href="https://www.facebook.com">Facebook Link to Practice</a>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--								<div class="item">-->
+<!--									<img src="../images/slideshow2.png" alt="slideshow example">-->
+<!--									<div class="carousel-caption">-->
+<!--										<p>This project was made for reasons, check it out at the link below</p>-->
+<!--										<a href="https://www.github.com">I'm the Link Below</a>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--								...-->
+<!--							</div>-->
+<!---->
+<!--							<!-- Controls -->-->
+<!--							<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">-->
+<!--								<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>-->
+<!--								<span class="sr-only">Previous</span>-->
+<!--							</a>-->
+<!--							<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">-->
+<!--								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>-->
+<!--								<span class="sr-only">Next</span>-->
+<!--							</a>-->
+<!--						</div>-->
+<!---->
+<!---->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
 		</main>
 
 		</div>

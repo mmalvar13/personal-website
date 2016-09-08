@@ -18,7 +18,6 @@
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
 
 		<!--Google Fonts-->
-		<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
 
 		<link href="https://fonts.googleapis.com/css?family=Pacifico|Quicksand" rel="stylesheet">
 
@@ -109,18 +108,10 @@
 					</div>
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
-							<p>pursuing a new career trajectory in computer programming after two years in a director position
-								at
-								a non-profit organization. I loved my role as a community organizer, but decided that I wanted
-								to
-								become a maker, and be able to have the skills to build new things. I discovered my enthusiasm
-								for
-								computer programming through online self-study courses, and I am currently becoming a full stack
-								developer at Deep Dive Coding Bootcamp. I love that programming allows me to be both creative
-								and
-								logical on projects where I can come up with ideas and build them into realities. I am motivated
-								to
-								continue growing and learning in this field. Ultimately, I hope that thro</p>
+							<p>Here is where I put nice sounding stuff about idk my philosophies about web design and websites and creating beautiful artsy things and all of that</p>
+							<p>I say some stuff about myself, like what my specialties are (hmmm) and things i've done and things I want to do and things i'm pretty good at</p>
+							<p>Of course, somewhere in here you put something personal like your personal hobbies so that people know you're a person. Person person person.</p>
+							<p>you let everyone know to click through and check out your stuff. contact you<a href="contact/index.php">Here</a></p>
 						</div>
 					</div>
 				</div>
