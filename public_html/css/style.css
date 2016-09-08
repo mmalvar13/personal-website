@@ -154,6 +154,33 @@ form {
 	font-family: 'Pacifico', cursive;
 }
 
+
+
+
+#portfolio-welcome {
+	height: 60rem;
+	width: 30rem;
+	background: steelblue;
+	/*color:#B75252;*/
+	margin-top: 5rem;
+	font-family: 'Quicksand', sans-serif;
+}
+
+/*styles for sm, md, lg screens */
+@media only screen and (max-width: 991px) {
+	#portfolio-welcome {
+		height:40rem;
+		width:100%;
+	}
+}
+@media only screen and (max-width: 768px){
+	#portfolio-welcome{
+		height:55rem;
+		width:100%;
+	}
+}
+
+
 .projects {
 	width: 100%;
 	height: 20rem;
@@ -219,6 +246,13 @@ form {
 	padding-left: 0;
 }
 
+@media only screen and (max-width: 991px){
+	.container-fluid .row-bg-wrap{
+		height:120rem;
+		width:100%;
+	}
+}
+
 .active {
 	/*background-color:#dff0d8;*/
 }
@@ -228,6 +262,10 @@ form {
 	font-family: 'Quicksand', sans-serif;
 	text-align: center;
 
+}
+
+#resume-content h1{
+	padding-top:5rem;
 }
 
 h1 {
@@ -282,59 +320,66 @@ h1 {
 #php {
 	/*background-color: #5bc0eb;*/
 	/*background-color:#005646;*/
-	background-color:#02A385;
+	/*background-color:#02A385;*/
+	height:6rem;
 }
 
 #css {
 	/*background-color: #fde74c;*/
 	/*background-color:#EF551B;*/
-	background-color:#02A385;
+	/*background-color:#02A385;*/
+	height:6rem;
 }
+
 
 #html5 {
 	/*background-color: #9bc53d;*/
-	background-color:#02A385;
+	/*background-color:#02A385;*/
+	height:6rem;
 }
 
 
 #bootstrap {
 	/*background-color: #c3423f;*/
-	background-color:#02A385;
+	/*background-color:#02A385;*/
+	height:6rem;
 }
 
 #javascript {
 	/*background-color: #404e4d;*/
-	background-color:#02A385;
+	/*background-color:#02A385;*/
+	height:6rem;
 }
 
 #angular {
 	/*background-color: #5bc0eb;*/
-	background-color:#02A385;
+	/*background-color:#02A385;*/
+	height:6rem;
 }
 
 #mysql {
 	/*background-color: #fde74c;*/
-	background-color:#02A385;
-
-
+	/*background-color:#02A385;*/
+	height:6rem;
 }
 
 #python {
 	/*background-color: #9bc53d;*/
-	background-color:#02A385;
+	/*background-color:#02A385;*/
+	height:6rem;
 
 }
 
 #jquery {
 	/*background-color: #c3423f;*/
-	background-color:#02A385;
-
+	/*background-color:#02A385;*/
+	height:6rem;
 }
 
 #html5 img {
-	height: 12rem;
+	height:3rem;
 	padding-left: 6rem;
-	margin-top: 2rem;
+	/*margin-top: 2rem;*/
 	vertical-align: middle;
 }
 
@@ -407,9 +452,13 @@ h1 {
 	float: left;
 	overflow: hidden;
 	margin: 10px 1%;
-	min-width: 320px;
-	max-width: 480px;
-	max-height: 360px;
+	/*min-width: 320px;*/
+	/*max-width: 480px;*/
+	/*max-height: 360px;*/
+	min-width: 310px;
+	max-width: 310px;
+	max-height:320px;
+
 	width: 48%;
 	height: auto;
 	background: #3085a3;
@@ -439,23 +488,43 @@ h1 {
 	pointer-events: none;
 }
 
+
+/*mine, original below*/
 .grid figure figcaption,
-.grid figure figcaption > a {
+.grid figure figcaption > img {
 	position: absolute;
 	top: 0;
 	left: 0;
 	width: 100%;
 	height: 100%;
 }
+/*.grid figure figcaption,*/
+/*.grid figure figcaption > a {*/
+	/*position: absolute;*/
+	/*top: 0;*/
+	/*left: 0;*/
+	/*width: 100%;*/
+	/*height: 100%;*/
+/*}*/
 
 /* Anchor will cover the whole item by default */
-.grid figure figcaption > a {
+
+/*this is mine, original below*/
+.grid figure figcaption > img {
 	z-index: 1000;
 	text-indent: 200%;
 	white-space: nowrap;
 	font-size: 0;
 	opacity: 0;
 }
+
+/*.grid figure figcaption > a {*/
+	/*z-index: 1000;*/
+	/*text-indent: 200%;*/
+	/*white-space: nowrap;*/
+	/*font-size: 0;*/
+	/*opacity: 0;*/
+/*}*/
 
 .grid figure h2 {
 	word-spacing: -0.15em;
@@ -466,15 +535,25 @@ h1 {
 	font-weight: 800;
 }
 
+/*mine, original below*/
 .grid figure h2,
 .grid figure p {
 	margin: 0;
 }
+/*.grid figure h2,*/
+/*.grid figure p {*/
+	/*margin: 0;*/
+/*}*/
 
+/*mine, original below*/
 .grid figure p {
 	letter-spacing: 1px;
 	font-size: 68.5%;
 }
+/*.grid figure p {*/
+	/*letter-spacing: 1px;*/
+	/*font-size: 68.5%;*/
+/*}*/
 
 /*-----------------*/
 /***** Hera *****/
@@ -488,6 +567,7 @@ figure.effect-hera h2 {
 	font-size: 158.75%;
 }
 
+/*This is mine, original below*/
 figure.effect-hera h2,
 figure.effect-hera p {
 	position: absolute;
@@ -500,6 +580,18 @@ figure.effect-hera p {
 	-webkit-transform-origin: 50%;
 	transform-origin: 50%;
 }
+/*figure.effect-hera h2,*/
+/*figure.effect-hera p {*/
+	/*position: absolute;*/
+	/*top: 50%;*/
+	/*left: 50%;*/
+	/*-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;*/
+	/*transition: opacity 0.35s, transform 0.35s;*/
+	/*-webkit-transform: translate3d(-50%,-50%,0);*/
+	/*transform: translate3d(-50%,-50%,0);*/
+	/*-webkit-transform-origin: 50%;*/
+	/*transform-origin: 50%;*/
+/*}*/
 
 figure.effect-hera figcaption::before {
 	position: absolute;
@@ -518,47 +610,103 @@ figure.effect-hera figcaption::before {
 	transform-origin: 50%;
 }
 
+/*i wrote this one, original below*/
 figure.effect-hera p {
 	width: 100px;
 	text-transform: none;
 	font-size: 121%;
 	line-height: 2;
 }
+/*figure.effect-hera p {*/
+	/*width: 100px;*/
+	/*text-transform: none;*/
+	/*font-size: 121%;*/
+	/*line-height: 2;*/
+/*}*/
 
-figure.effect-hera p a {
+
+/*i wrote this one, original below*/
+figure.effect-hera p img {
 	color: #fff;
 }
+/*figure.effect-hera p a {*/
+	/*color: #fff;*/
+/*}*/
 
-figure.effect-hera p a:hover,
-figure.effect-hera p a:focus {
+/*this is mine original below*/
+figure.effect-hera p img:hover,
+figure.effect-hera p img:focus {
 	opacity: 0.6;
 }
+/*figure.effect-hera p a:hover,*/
+/*figure.effect-hera p a:focus {*/
+	/*opacity: 0.6;*/
+/*}*/
 
-figure.effect-hera p a i {
+/*this  one is mine. o riginal below*/
+figure.effect-hera p img {
 	opacity: 0;
 	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
 	transition: opacity 0.35s, transform 0.35s;
 }
+/*figure.effect-hera p a i {*/
+	/*opacity: 0;*/
+	/*-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;*/
+	/*transition: opacity 0.35s, transform 0.35s;*/
+/*}*/
 
-figure.effect-hera p a:first-child i {
+
+
+/*i changed this one, original underneath*/
+figure.effect-hera p {
 	-webkit-transform: translate3d(-60px,-60px,0);
 	transform: translate3d(-60px,-60px,0);
 }
+/*figure.effect-hera p {*/
+	/*-webkit-transform: translate3d(-60px,-60px,0);*/
+	/*transform: translate3d(-60px,-60px,0);*/
+/*}*/
 
-figure.effect-hera p a:nth-child(2) i {
+
+/*I wrote this one*/
+figure.effect-hera p:first-child img {
+	-webkit-transform: translate3d(-60px,-60px,0);
+	transform: translate3d(-60px,-60px,0);
+}
+/*this is the original*/
+/*figure.effect-hera p a:first-child i {*/
+	/*-webkit-transform: translate3d(-60px,-60px,0);*/
+	/*transform: translate3d(-60px,-60px,0);*/
+/*}*/
+
+/*this one is mine. below is original*/
+figure.effect-hera p:nth-child(2) img {
 	-webkit-transform: translate3d(60px,-60px,0);
 	transform: translate3d(60px,-60px,0);
 }
+/*figure.effect-hera p a:nth-child(2) i {*/
+	/*-webkit-transform: translate3d(60px,-60px,0);*/
+	/*transform: translate3d(60px,-60px,0);*/
+/*}*/
 
-figure.effect-hera p a:nth-child(3) i {
+
+figure.effect-hera p:nth-child(3) img {
 	-webkit-transform: translate3d(-60px,60px,0);
 	transform: translate3d(-60px,60px,0);
 }
+/*figure.effect-hera p a:nth-child(3) i {*/
+	/*-webkit-transform: translate3d(-60px,60px,0);*/
+	/*transform: translate3d(-60px,60px,0);*/
+/*}*/
 
-figure.effect-hera p a:nth-child(4) i {
+figure.effect-hera p:nth-child(4) img {
 	-webkit-transform: translate3d(60px,60px,0);
 	transform: translate3d(60px,60px,0);
 }
+/*figure.effect-hera p a:nth-child(4) i {*/
+	/*-webkit-transform: translate3d(60px,60px,0);*/
+	/*transform: translate3d(60px,60px,0);*/
+/*}*/
 
 figure.effect-hera:hover figcaption::before {
 	opacity: 1;
@@ -572,11 +720,17 @@ figure.effect-hera:hover h2 {
 	transform: translate3d(-50%,-50%,0) scale3d(0.8,0.8,1);
 }
 
-figure.effect-hera:hover p i:empty {
+/*mine. original below*/
+figure.effect-hera:hover p img:empty {
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0); /* just because it's stronger than nth-child */
 	opacity: 1;
 }
+/*figure.effect-hera:hover p i:empty {*/
+	/*-webkit-transform: translate3d(0,0,0);*/
+	/*transform: translate3d(0,0,0); !* just because it's stronger than nth-child *!*/
+	/*opacity: 1;*/
+/*}*/
 
 /* Media queries */
 @media screen and (max-width: 50em) {
