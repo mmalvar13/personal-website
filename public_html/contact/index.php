@@ -132,7 +132,7 @@
 						<div class="col-md-8 col-sm-pull-4 content-panel">
 							<div>
 								<!----Begin Contact Form---->
-								<form id="contact-form" action="../php/mailer.php" method="post" novalidate="novalidate">
+								<form id="contact-form" action="../php/mailer.php" method="POST" novalidate="novalidate">
 									<div class="form-group">
 										<label for="name">
 											Name
@@ -159,7 +159,7 @@
 										</div>
 									</div>
 									<div class="form-group">
-										<label for="name">
+										<label for="subject">
 											Subject
 											<span class="text-danger">*</span>
 										</label>
@@ -192,6 +192,14 @@
 									<button class="btn btn-warning" type="reset"><i class="fa fa-paper-ban"></i>Reset</button>
 
 								</form>
+
+								<!--empty area for form error/success output-->
+								<div class="row">
+									<div class="col-xs-12">
+										<div id="output-area"></div>
+									</div>
+								</div>
+
 							</div>
 
 
