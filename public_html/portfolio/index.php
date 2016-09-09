@@ -128,24 +128,11 @@
 
 						<div class="col-md-4 col-xs-12 col-sm-12"> <!--took out col-md-push-8 9/8-->
 							<div class="well" id="portfolio-welcome">
-								<h1>Let's Talk</h1>
+								<h1>My Work</h1>
 								<div class="content-box">
-									<p>If you have a website or project that you've been thinking about, I'd love to help you
-										create it! Leave me a message through this form and we can talk ideas, design, and
-										pricing.</p>
-									<p>To learn more about my work and background, feel free to check out my GitHub and my
-										LinkedIn profiles.</p>
-									<div align="center">
-										<a href="https://github.com/mmalvar13" target="blank">
-											<i class="fa fa-github-square fa fa-camera-retro fa-4x icons" aria-hidden="true"></i>
-										</a>
-
-										<a href="https://www.linkedin.com/in/monica-alvarez-ba70a48b
-" target="blank">
-											<i class="fa fa-linkedin-square fa fa-camera-retro fa-4x icons" aria-hidden="true"></i>
-										</a>
-									</div>
-									<h3>I look forward to working with you!</h3>
+									<p>I am a recent graduate of the Deep Dive Coding Bootcamp at the CNM STEMulus Center. Browse through my collection of projects, and come back soon to see how it grows. I am always on the lookout for new projects and freelance opportunities. If you have an idea for an app or a website that you want to see come to life, I can help you with that! </p>
+									<br>
+									<h3>Contact Me<a href="../contact/index.php"> Here</a><h3>
 								</div>
 							</div>
 

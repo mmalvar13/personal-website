@@ -10,6 +10,7 @@
 
 }
 
+
 .about-page {
 	color: white;
 	font-family: 'Quicksand', sans-serif;
@@ -17,6 +18,7 @@
 
 .about-page p {
 	font-size: 2rem;
+	text-align:center;
 }
 
 .content-box {
@@ -155,7 +157,9 @@ form {
 }
 
 
-
+h3 a{
+	color:#B75252;
+}
 
 #portfolio-welcome {
 	height: 60rem;
@@ -801,6 +805,11 @@ nav {
 	background: #B75252;
 	position: fixed;
 	z-index: 10;
+}
+
+.navbar-nav li a{
+	font-family:'Quicksand', sans-serif;
+	font-weight: 900;
 }
 
 .bs-example-navbar-collapse ul {

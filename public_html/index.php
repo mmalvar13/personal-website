@@ -108,10 +108,10 @@
 					</div>
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
-							<p>Here is where I put nice sounding stuff about idk my philosophies about web design and websites and creating beautiful artsy things and all of that</p>
-							<p>I say some stuff about myself, like what my specialties are (hmmm) and things i've done and things I want to do and things i'm pretty good at</p>
-							<p>Of course, somewhere in here you put something personal like your personal hobbies so that people know you're a person. Person person person.</p>
-							<p>you let everyone know to click through and check out your stuff. contact you<a href="contact/index.php">Here</a></p>
+							<p>I'm a developer and designer, and I believe that if we are going to spend a lot of time working and playing on the internet it might as well be beautiful. I find web development to be the perfect blend of creativity and logic, and that's why I love to do it. </p>
+							<p>I am a recent graduate of Deep Dive Coding Bootcamp and a LAMP stack developer. Currently,  I am working on a food truck tracking app called Crumbtrail that will allow food trucks to share their current location with hungry people. </p>
+							<p>I'm interested in any projects or opportunties that will allow me to continue to grow and learn as a developer.</p>
+							<p>Click through my site and let's chat sometime.</p>
 						</div>
 					</div>
 				</div>
