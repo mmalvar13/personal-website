@@ -194,10 +194,10 @@
 									</div>
 
 									<!--Google Recaptcha bootcamp coders-->
-									<div class="g-recaptcha" data-sitekey="6Lc5rykTAAAAAM40hFWgxhull2Wqn1YT7N-Zf9T4"></div>
+<!--									<div class="g-recaptcha" data-sitekey="6Lc5rykTAAAAAM40hFWgxhull2Wqn1YT7N-Zf9T4"></div>-->
 
 									<!--Google Recaptcha MalvarDev-->
-<!--									<div class="g-recaptcha" data-sitekey="6LetrykTAAAAAG-aEjK4X0nJlZy3YyyF-asmW14P"></div>-->
+									<div class="g-recaptcha" data-sitekey="6LetrykTAAAAAG-aEjK4X0nJlZy3YyyF-asmW14P"></div>
 
 									<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i>Send</button>
 									<button class="btn btn-warning" type="reset"><i class="fa fa-paper-ban"></i>Reset</button>
