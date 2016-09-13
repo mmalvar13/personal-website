@@ -78,7 +78,7 @@
 											<!--											<li class="active"><a href="#">About Monica<span class="sr-only">(current)</span></a>-->
 											<!--											</li>-->
 											<li><a href="../index.php">About Me</a></li>
-											<li><a href="index.php">Portfolio</a></li>
+											<li><a href="/index.php">Portfolio</a></li>
 											<li><a href="../contact">Contact Me</a></li>
 										</ul>
 										<!--								<ul class="nav navbar-nav navbar-right">-->
