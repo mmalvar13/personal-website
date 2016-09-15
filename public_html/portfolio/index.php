@@ -367,7 +367,7 @@
 									<img src="../images/blackDots.png" alt="img25">
 									<figcaption>
 										<h2>Front <span>End</span></h2>
-										<p>
+										<p id="front-end">
 											<img src="../images/css3.png" id="css">
 											<img src="../images/html5logo.png" id="html5">
 											<img src="../images/javascript.png" id="javascript">

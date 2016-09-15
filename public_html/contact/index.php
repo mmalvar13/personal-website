@@ -35,7 +35,7 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
 
 		<!-- Your JavaScript Form Validator -->
-		<script src="js/form-validate.js"></script>
+		<script src="../js/form-validate.js"></script>
 
 		<!--Google Recaptcha bootcamp coders-->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
